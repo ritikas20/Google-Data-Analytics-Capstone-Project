@@ -1,6 +1,7 @@
 # Google-Data-Analytics-Capstone-Project
 Analyzed bike ride data for a bike-sharing firm to discern divergences in bike usage between casual and member riders
 
+
 **Project link:** https://iitk-my.sharepoint.com/:f:/g/personal/ritikas20_iitk_ac_in/EkLUSb-9YsNCq8pKXi3QT90B7kBNc94ngAWY7ArcSKnojQ?e=bBJL3c
 
 **Dashboard**
